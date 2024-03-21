@@ -1,0 +1,14 @@
+C:\Users\huylo\OneDrive - Ozarks Technical Community College\________OTC\_Spring 2024\cis150\11- Pokémon\bin\Debug\net8.0\11- Pokémon.exe
+C:\Users\huylo\OneDrive - Ozarks Technical Community College\________OTC\_Spring 2024\cis150\11- Pokémon\bin\Debug\net8.0\11- Pokémon.deps.json
+C:\Users\huylo\OneDrive - Ozarks Technical Community College\________OTC\_Spring 2024\cis150\11- Pokémon\bin\Debug\net8.0\11- Pokémon.runtimeconfig.json
+C:\Users\huylo\OneDrive - Ozarks Technical Community College\________OTC\_Spring 2024\cis150\11- Pokémon\bin\Debug\net8.0\11- Pokémon.dll
+C:\Users\huylo\OneDrive - Ozarks Technical Community College\________OTC\_Spring 2024\cis150\11- Pokémon\bin\Debug\net8.0\11- Pokémon.pdb
+C:\Users\huylo\OneDrive - Ozarks Technical Community College\________OTC\_Spring 2024\cis150\11- Pokémon\obj\Debug\net8.0\11- Pokémon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huylo\OneDrive - Ozarks Technical Community College\________OTC\_Spring 2024\cis150\11- Pokémon\obj\Debug\net8.0\11- Pokémon.AssemblyInfoInputs.cache
+C:\Users\huylo\OneDrive - Ozarks Technical Community College\________OTC\_Spring 2024\cis150\11- Pokémon\obj\Debug\net8.0\11- Pokémon.AssemblyInfo.cs
+C:\Users\huylo\OneDrive - Ozarks Technical Community College\________OTC\_Spring 2024\cis150\11- Pokémon\obj\Debug\net8.0\11- Pokémon.csproj.CoreCompileInputs.cache
+C:\Users\huylo\OneDrive - Ozarks Technical Community College\________OTC\_Spring 2024\cis150\11- Pokémon\obj\Debug\net8.0\11- Pokémon.dll
+C:\Users\huylo\OneDrive - Ozarks Technical Community College\________OTC\_Spring 2024\cis150\11- Pokémon\obj\Debug\net8.0\refint\11- Pokémon.dll
+C:\Users\huylo\OneDrive - Ozarks Technical Community College\________OTC\_Spring 2024\cis150\11- Pokémon\obj\Debug\net8.0\11- Pokémon.pdb
+C:\Users\huylo\OneDrive - Ozarks Technical Community College\________OTC\_Spring 2024\cis150\11- Pokémon\obj\Debug\net8.0\11- Pokémon.genruntimeconfig.cache
+C:\Users\huylo\OneDrive - Ozarks Technical Community College\________OTC\_Spring 2024\cis150\11- Pokémon\obj\Debug\net8.0\ref\11- Pokémon.dll
